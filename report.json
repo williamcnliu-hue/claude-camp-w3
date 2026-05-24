@@ -1,0 +1,11 @@
+{
+  "total": 10,
+  "country_count": {
+    "Singapore": 4,
+    "Australia": 3,
+    "New Zealand": 3
+  },
+  "completion_rate": 60.0,
+  "email_missing": 1,
+  "date_unparseable": 1
+}
